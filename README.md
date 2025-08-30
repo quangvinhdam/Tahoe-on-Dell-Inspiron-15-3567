@@ -1,4 +1,3 @@
-![Banner](IMG/banner.png)
 # macOS Tahoe on Dell Inspiron 15 3567
 
 
