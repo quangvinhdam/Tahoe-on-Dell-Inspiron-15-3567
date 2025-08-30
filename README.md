@@ -74,5 +74,5 @@
 **Specs:**
 ![](IMG/Specs.png) 
 
-**USB(Use USBToolbox Kext 1.2.0 & UTBMap.kext):**
+**USB (Use USBToolbox Kext 1.2.0 & UTBMap.kext):**
 ![](IMG/USB.png)
