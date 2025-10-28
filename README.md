@@ -35,6 +35,7 @@
   - using **USBToolbox.kext v1.2.0** + **UTBMap.kext**
 - SD Card Reader
 - Bluetooth
+- Wi-Fi (Fixed in EFI 1.0.5 release tag)
 
 ## ❌ Not Working (as of Tahoe Beta 8)
 - **Wi-Fi** (Intel AC3165 not working on Sonoma Tahoe Beta 8)
