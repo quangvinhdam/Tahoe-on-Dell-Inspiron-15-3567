@@ -55,7 +55,7 @@
 | PS2 / Trackpad | `VoodooPS2Controller.kext` | Keyboard/trackpad (if not I2C) |
 | Battery (opt) | `SMCBatteryManager.kext` / `ACPIBatteryManager.kext` | Battery status |
 | NVRAM (opt) | `RestrictEvents.kext` | Prevents certain panics/spoofs |
-| Wi-Fi (alt HW) | Intel® Dual Band Wireless-AC 7260 |
+| Wi-Fi (alt HW) | Intel® Dual Band Wireless-AC 3165 | 'Not working' on Tahoe Beta 8 but 'Working' on Tahoe Final |
 
 > ℹ️ Intel AC3165 Wi-Fi currently **not** working on Tahoe Beta 8. Consider a Broadcom replacement card for continuity features.
 
