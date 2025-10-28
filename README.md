@@ -76,3 +76,6 @@
 
 **USB (Use USBToolbox Kext 1.2.0 & UTBMap.kext):**
 ![](IMG/USB.png)
+
+**Wifi:**
+![](IMG/Wifi.png) 
